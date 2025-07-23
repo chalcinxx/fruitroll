@@ -1,3 +1,0 @@
-/home/chalcinxx/Projects/slot_machine/build/CMakeFiles/fruitroll.dir
-/home/chalcinxx/Projects/slot_machine/build/CMakeFiles/edit_cache.dir
-/home/chalcinxx/Projects/slot_machine/build/CMakeFiles/rebuild_cache.dir
