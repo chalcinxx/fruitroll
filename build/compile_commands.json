@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/chalcinxx/Projects/slot_machine/build",
+  "command": "/usr/bin/c++  -I/home/chalcinxx/Projects/slot_machine/fruitroll -I/home/chalcinxx/Projects/slot_machine/include -std=gnu++17 -o CMakeFiles/fruitroll.dir/src/args.cpp.o -c /home/chalcinxx/Projects/slot_machine/src/args.cpp",
+  "file": "/home/chalcinxx/Projects/slot_machine/src/args.cpp",
+  "output": "CMakeFiles/fruitroll.dir/src/args.cpp.o"
+},
+{
+  "directory": "/home/chalcinxx/Projects/slot_machine/build",
+  "command": "/usr/bin/c++  -I/home/chalcinxx/Projects/slot_machine/fruitroll -I/home/chalcinxx/Projects/slot_machine/include -std=gnu++17 -o CMakeFiles/fruitroll.dir/src/fruit.cpp.o -c /home/chalcinxx/Projects/slot_machine/src/fruit.cpp",
+  "file": "/home/chalcinxx/Projects/slot_machine/src/fruit.cpp",
+  "output": "CMakeFiles/fruitroll.dir/src/fruit.cpp.o"
+},
+{
+  "directory": "/home/chalcinxx/Projects/slot_machine/build",
+  "command": "/usr/bin/c++  -I/home/chalcinxx/Projects/slot_machine/fruitroll -I/home/chalcinxx/Projects/slot_machine/include -std=gnu++17 -o CMakeFiles/fruitroll.dir/src/jackpot.cpp.o -c /home/chalcinxx/Projects/slot_machine/src/jackpot.cpp",
+  "file": "/home/chalcinxx/Projects/slot_machine/src/jackpot.cpp",
+  "output": "CMakeFiles/fruitroll.dir/src/jackpot.cpp.o"
+},
+{
+  "directory": "/home/chalcinxx/Projects/slot_machine/build",
+  "command": "/usr/bin/c++  -I/home/chalcinxx/Projects/slot_machine/fruitroll -I/home/chalcinxx/Projects/slot_machine/include -std=gnu++17 -o CMakeFiles/fruitroll.dir/src/main.cpp.o -c /home/chalcinxx/Projects/slot_machine/src/main.cpp",
+  "file": "/home/chalcinxx/Projects/slot_machine/src/main.cpp",
+  "output": "CMakeFiles/fruitroll.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/chalcinxx/Projects/slot_machine/build",
+  "command": "/usr/bin/c++  -I/home/chalcinxx/Projects/slot_machine/fruitroll -I/home/chalcinxx/Projects/slot_machine/include -std=gnu++17 -o CMakeFiles/fruitroll.dir/src/roll.cpp.o -c /home/chalcinxx/Projects/slot_machine/src/roll.cpp",
+  "file": "/home/chalcinxx/Projects/slot_machine/src/roll.cpp",
+  "output": "CMakeFiles/fruitroll.dir/src/roll.cpp.o"
+}
+]
